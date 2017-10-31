@@ -1,6 +1,6 @@
 //Package declaration is mandatory
 package javaProject_Assignment7;
-
+/*Write a program to convert an int variable to String using an inbuilt function of String class.*/
 public class Conversion {
 	//Declare variables
 	int i = -7;
